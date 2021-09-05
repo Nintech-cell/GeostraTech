@@ -21,7 +21,7 @@
 
                             <?php
 
-                                $sql = "SELECT * FROM comments";
+                                $sql = "SELECT * FROM comments ORDER BY comment_id ASC";
                                 $comments = mysqli_query($con,$sql);
 
                                 while($row=mysqli_fetch_assoc($comments))
@@ -60,7 +60,7 @@
                                 ?>
 
                                 <td><?php echo $row['comment_date']; ?> </td>
-                                <td><a href="comments.php?del=<?php echo $comment_post_id ?>" class="btn btn-danger"><span class="fa fa-trash"></span></a></td>
+                                <td><a href="comments.php?del=<?php echo $comment_id ?>" class="btn btn-danger"><span class="fa fa-trash"></span></a></td>
                                 
                                 </tr>
                                 <?php
@@ -70,7 +70,6 @@
                                         
                                         if(isset($_GET['del']))
                                         {
-                                            
                                             $sql_comment = "DELETE FROM comments WHERE comment_id = '$comment_id'";
                                             $comment_query = mysqli_query($con,$sql_comment);
 

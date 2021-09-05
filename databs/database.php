@@ -1,10 +1,10 @@
 <?php
 
 class Database {
-    private $host = 'localhost:3308';
-    private $user = 'root';
-    private $pass = '';
-    private $dbname = 'cms';
+    private $host = 'geostrwadmin.mysql.db';
+    private $user = 'geostrwadmin';
+    private $pass = 'Aqwzsxedc1';
+    private $dbname = 'geostrwadmin';
     private $dbh;
     private $stmt;
     private $error;

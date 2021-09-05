@@ -6,12 +6,12 @@
                     <span class="sr-only">Toggle navigation</span>
                 </button>
                 
-                <a class="navbar-brand" href="../index.php">Geostrat-admin</a>
+                <a class="navbar-brand" href="/">Geostrat-admin</a>
             </div>
             <!-- Top Menu Items -->
             <ul class="nav navbar-right top-nav">
                 <li class="dropdown">
-                <li><a href="../index.php">Revenir sur le site</a></li>
+                <li><a href="/">Revenir sur le site</a></li>
                    
                 <li class="dropdown">
                     <a href="#" class="dropdown-toggle" data-toggle="dropdown"> Admin <i class="fa fa-user"></i> 

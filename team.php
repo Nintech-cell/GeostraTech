@@ -62,7 +62,7 @@
                                         <div class="social">
                                             <div class="member-info">
                                                 <br>
-                                                <h3>Eric Eraque</h3>
+                                                <h3>Eric Thorry</h3>
                                                 <span>Maître de Conférences en Histoire européenne</span>
                                                 <p><span>Université de Paris</span></p>
                                             </div>
@@ -80,9 +80,9 @@
                                         <div class="social">
                                             <div class="member-info">
                                             <br>
-                                                <h3>Gustavo Lonté</h3>
+                                                <h3>Gérard Chastellain</h3>
                                                 <span>Professeur de Sciences politiques</span>
-                                                <p><span>Université de Paris Est-Créteil</span></p>
+                                                <p><span>Université de Paris</span></p>
                                             </div>
                                         </div>
                                     </div>
@@ -98,7 +98,7 @@
                                         <div class="social">
                                             <div class="member-info">
                                             <br>
-                                                <h3>Jean Géographie</h3>
+                                                <h3>Lewis Hamel</h3>
                                                 <span>Professeur d'histoire des civilisations</span>
                                                 <p><span>Université de Strasbourg 2</span></p>
                                             </div>
@@ -116,7 +116,7 @@
                                         <div class="social">
                                             <div class="member-info">
                                             <br>
-                                                <h3>Eddy Don Jamy</h3>
+                                                <h3>Eddy San Antonio</h3>
                                                 <span>Maître de conférences en Sciences économiques</span>
                                                 <p><span>Université de Yale</span></p>
                                             </div>
@@ -147,7 +147,7 @@
                                         <div class="social">
                                             <div class="member-info">
                                                 <br>
-                                                <h3>Djamal D. Jéré</h3>
+                                                <h3>Hans Adelstörm</h3>
                                                 <span> Chercheur associé à l'Université de Copenhague</span>
                                                 <p><span>Histoire des civilisations</span></p>
                                             </div>
@@ -165,7 +165,7 @@
                                         <div class="social">
                                             <div class="member-info">
                                             <br>
-                                                <h3>Alain Thelly-Jeance</h3>
+                                                <h3>Alain Jeromion</h3>
                                                 <span>Professeur de droit international public</span>
                                                 <p><span>Université de Paris Descartes</span></p>
                                             </div>
@@ -183,7 +183,7 @@
                                         <div class="social">
                                             <div class="member-info">
                                             <br>
-                                                <h3>David Grenier</h3>
+                                                <h3>David Antopoulos</h3>
                                                 <span>Professeur d'histoire de l'antiquité</span>
                                                 <p><span>Université d'Athènes (Grèce)</span></p>
                                             </div>
@@ -201,7 +201,7 @@
                                         <div class="social">
                                             <div class="member-info">
                                             <br>
-                                                <h3>Javier Kaffer-Gaphe</h3>
+                                                <h3>Vasili Hansstein-Kermov</h3>
                                                 <span>Maître de conférences (HDR) en Sciences de gestion</span>
                                                 <p><span>Université de Moscou</span></p>
                                             </div>

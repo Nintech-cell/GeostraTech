@@ -8,6 +8,7 @@ require_once "includes/db.php";
 <head>
 
     <meta charset="utf-8">
+    <meta http-equiv="content-type" content="text/html; charset=utf-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="Le nouveau site de l'actualité géopolitique, et de relations internationales dédié à la publication d'articles et à la recherche scientifique">
@@ -28,6 +29,15 @@ require_once "includes/db.php";
 
     <!-- CSS de "Team" --->
     <link rel="steelsheet" type="text/css" href="../css/team.css">
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-GPC74W1CFY"></script>
+    <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'G-GPC74W1CFY');
+    </script>
 
 
 </head>

@@ -60,7 +60,7 @@ require_once "includes/nav.php"
                     <a href="post.php?p_id=<?php echo $post_id ?>"><?php echo $post_title  ?></a>
                 </h2>
                 <p class="lead">
-                    Rédigé par <a href="index.php"><?php echo $post_author?></a>
+                    Rédigé par <a href="/"><?php echo $post_author?></a>
                 </p>
                 <p><i class="fa fa-clock-o" aria-hidden="true"></i> &nbsp; Publié le <?php echo $post_date ?> </p>
                 
